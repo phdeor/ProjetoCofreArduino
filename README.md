@@ -1,7 +1,7 @@
 # 🔐 Locker Inteligente com Feedback Multissensorial
 
 **CCM520 – Internet das Coisas | Centro Universitário FEI**  
-Pedro Henrique Lima de Oliveira · Matheus Sarmento Pinto · João Victor Maciente
+Pedro Henrique Lima de Oliveira · Matheus Sarmento Pinto · João Vitor Maciente Rangel
 
 ---
 
